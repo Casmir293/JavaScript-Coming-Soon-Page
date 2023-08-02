@@ -26,15 +26,11 @@ The "Coming Soon" page is a web page designed to inform visitors that your websi
 
 1. Clone this repository to your local machine using the following command:
 
-   ```git clone https://github.com/casmir293/Coming-Soon-Page.git
-
-   ```
+   `git clone https://github.com/casmir293/Coming-Soon-Page.git`
 
 2. Navigate to the project directory:
 
-   ```cd Coming-Soon-Page
-
-   ```
+   `cd Coming-Soon-Page`
 
 3. Open the `index.html` file in your web browser.
 
