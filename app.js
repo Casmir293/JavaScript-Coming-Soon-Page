@@ -1,5 +1,5 @@
 // Set date and time (YYYY-MM-DD HH:MM:SS format)
-const launchDate = new Date("2023-10-01 12:00:00").getTime();
+const launchDate = new Date("2023-12-31 12:00:00").getTime();
 
 function updateCountdown() {
   const now = new Date().getTime();
